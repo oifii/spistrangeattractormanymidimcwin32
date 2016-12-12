@@ -1,0 +1,31 @@
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 125 180000 "NONE" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 60.0 500 180000 "NONE" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 30.0 250 180000 "NONE" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 16.0 250 180000 "NONE" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 125 180000 "NONE" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 125 180000 "C_MINORPENTATONIC" 1920 100 400 400 220 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 125 180000 "C_MINORPENTATONIC" 1 1 3600 1080 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 125 180000 "C_MINORPENTATONIC" 1 1 3600 1080 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 75 180000 "C_MINORPENTATONIC" 1 1 1920 1080 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 75 180000 "C_MINORPENTATONIC" 1921 1 1680 540 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.0 75 180000 "C_MINORPENTATONIC" 1921 541 1680 540 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 75 180000 "C_MINORPENTATONIC" 1 1 1920 1080 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 7 3600.0 3.2 50 180000 "C_MINORPENTATONIC" 1921 1 1680 540 255 0 0 0 1 1 "mywindowclass" "mywindowtitle" "begin - Copy.ahk" "end - Copy.ahk"
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 3.2 50 180000 "C_MINORPENTATONIC" 1921 1 1680 540 255 0 0 0
+start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 3.2 50 180000 "C_MINORPENTATONIC" 1921 1 1680 540 220 0 0 0 1 1
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  2" 0 0 3600.0 1.6 125 180000 "C_MINORPENTATONIC" 1921 541 1680 540 255 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 1000 180000 "C_MINORPENTATONIC" 1 1 1920 1080 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.6 1500 180000 "C_MINORPENTATONIC" 1921 1 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 2.6 2000 180000 "C_MINORPENTATONIC" 1921 541 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 2000 180000 "C_MINORPENTATONIC" 1 1 1920 1080 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 1.6 3000 180000 "C_MINORPENTATONIC" 1921 1 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 2.6 4000 180000 "C_MINORPENTATONIC" 1921 541 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 150 180000 "C_MINORPENTATONIC" 1 1 1920 1080 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.3 150 180000 "C_MINORPENTATONIC" 1921 1 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.9 150 180000 "C_MINORPENTATONIC" 1921 541 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 150 180000 "C_MINORPENTATONIC" 1 1 1920 1080 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.3 70 180000 "C_MINORPENTATONIC" 1921 1 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.9 300 180000 "C_MINORPENTATONIC" 1921 541 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.6 500 180000 "C_MINORPENTATONIC" 1 1 1920 1080 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.3 500 180000 "C_MINORPENTATONIC" 1921 1 1680 540 225 0 0 0
+rem start spistrangeattractormanymidimcwin32.exe "Out To MIDI Yoke:  1" 0 15 3600.0 0.9 1000 180000 "C_MINORPENTATONIC" 1921 541 1680 540 225 0 0 0
